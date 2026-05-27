@@ -32,20 +32,20 @@ The audit will focus on activities, systems, and data processed between **[Start
 | Risk \# | Risk Description  |
 | :---- | :---- |
 | 1 | Inadequate governance and oversight  |
-| 2 | Inadequate management of IT access and authorizations |
+| 2 | Inaccurate asset visibility |
 | 3 | Lack of / ineffective patch and vulnerability management  |
-| 4 | Lack of / ineffective threat monitoring  |
-| 5 | Inconsistent or non-existent reporting  |
-| 6 | Lack of awareness training |
+| 4 | Slow / inconsistent patch deployment and remediation management  |
+| 5 | Lack of patch testing, validation |
+| 6 | Insufficient management of Legacy and End-of-Life (EOL) systems |
 
 For each of these risks Internal Audit has preliminary identified the various potential root causes in order to determine which business process should be included in this audit. The identified business processes are as follows:
 
 * Governance   
-* Access and privileged account management   
+* Asset Discovery   
 * Patch and vulnerability management   
-* Threat monitoring   
-* Reporting and consequence actions   
-* Training and awareness
+* Testing Validation 
+* Legacy Systems management 
+
 
   
 ### 3. Methodology 
