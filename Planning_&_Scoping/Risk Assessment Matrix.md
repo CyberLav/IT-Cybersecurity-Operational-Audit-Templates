@@ -1,13 +1,6 @@
-**Customize this template to match your target operational audit scope.**			
-				
-**Calculations will execute dynamically with every keystroke.**			
-
-**Residual Risk Rating (RR) = IR × (Control Effectiveness / 5)**	
-				
-**Inherent Risk Rating (IR) = Impact × Likelihood (Max 25)**			  
-
-**Control Effectiveness Rating (CE):**
-**1 = Strong Controls (80% risk reduction) | 5 = Absent/Weak Controls (0% risk reduction)**	
+|IMPACT RATING | LIKELIHOOD RATING |INHERENT RISK | CONTROL EFFECTIVENESS | RESIDUAL RISK / PRIORITY |
+|---|---|---|---|---|
+| 1: Low  \| 2: Minor  \| 3: Moderate  <br> 4: High  \| 5: Critical | 1: Low  \| 2: Minor  \| 3: Moderate  <br> 4: High  \| 5: Critical | **Formula:** `I × L`  <br> Max scale value is **25**. | 1: Strong (80% mitigation)  <br> 5: Absent/Ineffective (0% mitigation) | **Formula:** `IR × (CE / 5)`  <br><br> **High:** ≥12  \| **Med:** 6–11.9  \| **Low:** <6 |
 
 
 
