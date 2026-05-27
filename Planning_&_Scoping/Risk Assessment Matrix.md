@@ -1,3 +1,16 @@
+**Customize this template to match your target operational audit scope.**			
+				
+**Calculations will execute dynamically with every keystroke.**			
+
+**Residual Risk Rating (RR) = IR × (Control Effectiveness / 5)**	
+				
+**Inherent Risk Rating (IR) = Impact × Likelihood (Max 25)**			  
+
+**Control Effectiveness Rating (CE):**
+**1 = Strong Controls (80% risk reduction) | 5 = Absent/Weak Controls (0% risk reduction)**	
+
+
+
 | ID | Core Operational Risk Target | Potential Root Causes | Inherent Risk | Existing Mitigating Controls | CE Rating | Residual Risk | Note / Scoping Rationale |
 | :--- | :--- | :--- | :---: | :--- | :---: | :---: | :--- |
 | **RSK01** | Inadequate or misaligned Vulnerability Governance (strategy, policies, exceptions, and SLAs) | • Lack of/inadequate Vulnerability Management strategy aligned with corporate risk appetite.<br>• Lack of clearly defined roles/responsibilities between IT Operations, Security teams, and Asset Owners.<br>• Absence of or outdated policies regarding remediation SLAs and formalized exception management. | **16** | Monthly Security Steering Committee reviews backlog; Vulnerability Management Policy drafted in 2023. | 2 | **6.4** | In-scope as it ensures the organization establishes accountability and clear rules of engagement. Without formalized governance, the patching lifecycle falls into a reactive state, leading to friction between IT teams deploying patches and system owners prioritizing operational uptime. |
