@@ -1,0 +1,7 @@
+| Risk ID | Risk Description | Processes Impacted | Steps | Objective | Audit Procedures |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| RSK-01 | Governance | Governance (Strategy, policies and procedures, exceptions, SLA) | A | The governance framework for vulnerability and patch management ensures clearly defined roles... | Obtain and evaluate the organization’s Vulnerability Management Policy... |
+| RSK-02 | Asset discovery & visibility | Vulnerability scanning and patch prioritization | A | The asset management framework ensures a comprehensive, accurate... | 1) Obtain and evaluate the organization’s automated discovery tool... |
+| RSK-03 | Vulnerability scanning practices | Vulnerability scanning and discovery and configuration drift | A | The vulnerability scanning program ensures comprehensive and continuous technical assessment... | 1) Obtain and evaluate the vulnerability scanning configuration baseline... |
+| RSK-04 | Patch deployment & remediation management | Patch distribution and remediation tracking and testing | A | The patch deployment and remediation process ensures that identified vulnerabilities are remediated... | 1) Obtain and evaluate the organization’s Patch Management SLA policy... |
+| RSK-05 | Legacy and End-of-Life (EOL) systems management | Asset lifecycle and sunsetting management | A | The lifecycle management framework ensures that legacy and EOL systems are identified... | 1) Obtain and evaluate the organization’s Legacy and EOL System Register... |
