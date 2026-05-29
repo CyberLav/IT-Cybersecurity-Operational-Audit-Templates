@@ -1,0 +1,24 @@
+,,,,,
+Risk ID ,Risk Description ,Processes Impacted,Steps,Objective,Audit Procedures
+RSK-01,Governance,"Governance (Strategy, policies  and procedures, exceptions, SLA)",A,"The governance framework for vulnerability and patch management ensures clearly defined roles and responsibilities, comprehensive procedural guidance, consistent performance oversight, and alignment with enterprise risk management and regulatory compliance requirements.","Obtain and evaluate the organization’s Vulnerability Management Policy and supporting standards to confirm that governance roles, responsibilities, and accountability are clearly defined across all business units, ensuring there are no gaps in ownership for the patch management lifecycle.
+Inspect internal IT and Security organizational charts and RACI matrices to verify that personnel understand their specific responsibilities, ensuring appropriate coordination and communication flow between Security teams, IT operations, and relevant process owners.
+Review management meeting minutes and performance reporting dashboards to verify that oversight mechanisms are effective, ensuring that leadership consistently monitors vulnerability metrics and addresses systemic issues or policy non-compliance in a timely manner."
+RSK-02,"Asset discovery & visibility
+",Vulnerability scanning and patch prioritization,A,"The asset management framework ensures a comprehensive, accurate, and continuously updated inventory of all hardware, software, and cloud assets, providing the foundational visibility required to identify, prioritize, and remediate security vulnerabilities across the environment","1) Obtain and evaluate the organization’s automated discovery tool configurations to confirm that the asset inventory process is comprehensive, ensuring that all managed  IT assets are identified and recorded in the central configuration management database (CMDB).
+
+2) Inspect technical documentation and system logs for the organization's asset discovery and scanning tools to verify that they are configured to scan all network segments and cloud environments, ensuring accurate asset classification and real-time updates to the inventory database.
+"
+RSK-03,"Vulnerability scanning practices 
+", Vulnerability scanning and discovery and configuration drift. ,A,"The vulnerability scanning program ensures comprehensive and continuous technical assessment of the environment, utilizing authenticated scanning techniques to provide deep visibility into software weaknesses and configuration drifts across all enterprise assets.","1) Obtain and evaluate the vulnerability scanning configuration baseline to confirm that the frequency, scope, and depth of scans are aligned with the sensitivity of the assets.
+
+2) Inspect the authentication configuration for scanning tools to verify that authenticated  scanning is enabled and successfully performing across the servers and workstations."
+RSK-04, Patch deployment & remediation management,Patch distribution and remediation tracking and testing,A,"The patch deployment and remediation process ensures that identified vulnerabilities are remediated systematically and within defined service level agreements (SLAs), minimizing the window of opportunity for exploitation by maintaining up-to-date and resilient system configurations.","1) Obtain and evaluate the organization’s Patch Management SLA policy and remediation workflows to confirm that timelines for patch deployment are clearly defined based on vulnerability severity, ensuring that high-risk and critical vulnerabilities are addressed promptly.
+
+2) Review post-deployment verification reports and failed patch tracking logs to verify that management investigates and resolves remediation failure.
+"
+RSK-05,Legacy and End-of-Life (EOL) systems management ,Asset lifecycle and sunsetting management,A,"The lifecycle management framework ensures that legacy and EOL systems are identified, isolated, and governed by compensating controls, mitigating the inherent risks associated with unpatchable software and hardware vulnerabilities","1) Obtain and evaluate the organization’s Legacy and EOL System Register to confirm that all unsupported assets are formally documented, including an assessment of the business necessity for their continued operation and the associated risk profile.
+
+2) Inspect the design and implementation of compensating controls for EOL systems, such as network segmentation, restricted access, or endpoint security hardening, to verify that these measures effectively mitigate the lack of native vendor security patching.
+
+3) Review the decommissioning roadmap and transition plans for legacy systems to verify that management has established a clear strategy to phase out unsupported technology, ensuring that long-term reliance on insecure systems is proactively managed.
+"
