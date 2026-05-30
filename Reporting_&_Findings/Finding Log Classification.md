@@ -23,3 +23,5 @@ This tool removes subjectivity from risk reporting. By enforcing a strict 5×5 c
 3. **Document**: Attach the context, Finding ID, and rationale directly in the row.  
 4. **Export**: Download the completed log as a CSV for use in final reports or remediation tracking.
 
+### **Access**
+The tool is available at cyberlav.io/
