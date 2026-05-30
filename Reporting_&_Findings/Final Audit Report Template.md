@@ -47,9 +47,7 @@
 | **4** | **Weak** | Control is outdated or frequently bypassed. |
 | **5** | **Absent** | No control exists. |
 
-* **Appendix B:**  
-
-  ### **Risk Ranking** 
+### **Appendix B: Risk Ranking** 
 
 | 5 | Critical | Catastrophic loss or regulatory breach. |
 | :---- | :---- | :---- |
@@ -59,10 +57,9 @@
 | **1** | **Low** | Negligible or purely cosmetic. |
 
 
-* **Appendix C:** 
+### **Appendix C: Audit Report Ratings**
 
-### **Audit Report Ratings**
-
+ 
 | Rating | Definition |
 | :---- | :---- |
 | **Strong** | Controls are robust, fully automated, and operate effectively to mitigate all significant risks. |
