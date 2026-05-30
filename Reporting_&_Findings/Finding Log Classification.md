@@ -24,4 +24,4 @@ This tool removes subjectivity from risk reporting. By enforcing a strict 5×5 c
 4. **Export**: Download the completed log as a CSV for use in final reports or remediation tracking.
 
 ### **Access**
-The tool is available at cyberlav.io/
+The tool is available at [CyberLav](https://cyberlav.io)
