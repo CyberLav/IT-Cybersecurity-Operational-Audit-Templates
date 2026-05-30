@@ -38,9 +38,7 @@
 
 ## **4\. Appendices**
 
-*Appendices keep the main report readable.*
-
-# **Appendix A: Control Effectiveness (CE)** 
+### **Appendix A: Control Effectiveness (CE)** 
 
 | 1 | Strong | Control is automated, tested, and works consistently. |
 | :---- | :---- | :---- |
