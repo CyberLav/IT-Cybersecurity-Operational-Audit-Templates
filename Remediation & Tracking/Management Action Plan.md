@@ -17,8 +17,8 @@ Use this table to maintain accountability and track the lifecycle of every ident
 
 | Finding ID | Control Owner | Remediation Approach | Action Item Details | Target Date | Status |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| **FND-01** | IT Manager | Mitigated | Implement automated patch management policy. | 2026-07-15 | Pending |
-| **FND-02** | Security Lead | Mitigated | Integrate cloud assets into existing CMDB. | 2026-08-01 | In-Progress |
-| **FND-03** | IT Ops Lead | Accepted | Document risk acceptance for legacy scan gaps. | 2026-06-15 | Validated |
+| **FND-01** | IT Manager | Mitigated | Draft, approve, and socialize the formal Vulnerability Management (VM) policy covering roles, SLAs, and exceptions. | 2026-07-15 | Pending |
+| **FND-02** | Security Lead | Mitigated | Expand discovery tool scope to cover all network segments; integrate cloud and contractor assets into CMDB.. | 2026-08-01 | In-Progress |
+| **FND-03** | IT Ops Lead | Accepted | Document risk acceptance for legacy servers in production. | 2026-06-15 | Validated |
 
 
